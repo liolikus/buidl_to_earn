@@ -1,1 +1,1 @@
-Budl > Earn > Learn
+`Budl` > `Earn` > `Learn`
